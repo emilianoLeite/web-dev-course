@@ -6,6 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Modules
 - [Module 1](./module1.md)
+- Module 2
+- Module 3
+- [Module 4](./image.html)
 
 ### Markdown
 
