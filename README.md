@@ -5,10 +5,20 @@ You can use the [editor on GitHub](https://github.com/emilianoLeite/web-dev-cour
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Modules
+
 - [Module 1](./module1.md)
 - Module 2
 - Module 3
 - [Module 4](./image.html)
+
+<ul>
+  <li> 
+    <a href="./tabela.html"> Tabela </a>
+  
+  </li>
+  </ul>
+
+
 
 ### Markdown
 
