@@ -6,3 +6,20 @@
 - Let
 - Const
 - Operators
+- 
+- [JJS]
+- Values and Variables
+- - Conceito de valores primitivos/imutáveis
+- - Atribuição de valores a variavéis(ou vice-versa) através de 'fios'
+- - O lado esquerdo de um assignment precisa ser uma variavél, enquanto o direito precisa ser uma expressão
+
+- Counting the Values(parte 1)
+- - Construção de um modelo mental através de fios e valores (ao invés de uma compreensão literal de como números,strings,arrays,etc são representados pelo JavaScript)
+- - Distinção entre indefinido e nulo (conceito de ausência de valor não-intencional e intencional, respectivamente)
+- - Imprecisão de cálculo com números distantes de zero devido à 'floating point math'
+- - Casos excepcionais de números (NaN e infinito)
+- Counting the Values(parte 2)
+- - Strings essencialmente não são objetos, apesar do JavaScript tratá-los como tal (como por exemplo verificar a propriedade de uma string através de um array index)
+- - Há um valor para cada possível string, sendo que cada um desses valores já existe previamente, sem a necessidade de 'invocá-los'
+- - Objetos, por não serem valores primitivos, são consequetemente valores mutáveis
+- - Cada vez que utilizamos o objeto literal {}, um novo valor é criado
