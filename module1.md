@@ -28,6 +28,6 @@
 <h2> Counting the Values(parte 2 - módulo 5) </h2>
 
 - <p> Strings essencialmente não são objetos, apesar do JavaScript tratá-los como tal (como por exemplo verificar a propriedade de uma string através de um array index) </p>
-- <p> Há um valor para cada possível string, sendo que cada um desses valores já existe previamente, sem a necessidade de 'invocá-los' </p>
+- <p> Há um valor para cada possível string, sendo que cada um desses valores já existe previamente, sem a necessidade de 'criá-los' </p>
 - <p> Objetos, por não serem valores primitivos, são consequetemente valores mutáveis </p>
 - <p> Cada vez que utilizamos o objeto literal {}, um novo valor é criado </p>
