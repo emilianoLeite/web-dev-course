@@ -1,13 +1,13 @@
 # Module 1
 <h1> W3 Schools JavaScript </h1>
 
-- <a href:'https://www.w3schools.com/js/js_statements.asp'> Statements </a>
-- <a href:'https://www.w3schools.com/js/js_syntax.asp'> Syntax </a>
-- <a href:'https://www.w3schools.com/js/js_comments.asp'> Comments </a>
-- <a href:'https://www.w3schools.com/js/js_variables.asp'> Variables </a>
-- <a href:'https://www.w3schools.com/js/js_let.asp'> Let </a>
-- <a href:'https://www.w3schools.com/js/js_const.asp'> Const </a>
-- <a href:'https://www.w3schools.com/js/js_operators.asp'> Operators </a>
+- <a href='https://www.w3schools.com/js/js_statements.asp'> Statements </a>
+- <a href='https://www.w3schools.com/js/js_syntax.asp'> Syntax </a>
+- <a href='https://www.w3schools.com/js/js_comments.asp'> Comments </a>
+- <a href='https://www.w3schools.com/js/js_variables.asp'> Variables </a>
+- <a href='https://www.w3schools.com/js/js_let.asp'> Let </a>
+- <a href='https://www.w3schools.com/js/js_const.asp'> Const </a>
+- <a href='https://www.w3schools.com/js/js_operators.asp'> Operators </a>
 
  
 <h1> JustJavaScript </h1>
