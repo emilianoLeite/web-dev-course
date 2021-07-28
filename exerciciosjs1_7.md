@@ -17,12 +17,7 @@ retornar null</li><br>
     return 13;
   }
 }
-
-console.log(x('abc',6))
-console.log(x('dfg','jkl'))
-console.log(x(1, 0))
-console.log(1/0)
-    console.log(-1/0)</li><br>
+</li><br>
   
   <li>
     Implementar função que recebe um array com 2 elementos numéricos e retorna a soma deles</li><br>
