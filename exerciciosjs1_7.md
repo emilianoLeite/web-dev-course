@@ -50,4 +50,6 @@ function double(number) {
   <li>
     Implementar função que recebe um array com um número desconhecido de elementos
     numéricos e retorna a soma deles</li>
+  
+  </ol>
 
