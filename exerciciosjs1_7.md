@@ -6,11 +6,7 @@
 retorna 1 se o primeiro argumento for maior que o segundo, retorna -1 se o
 segundo argumento for maior que o primeiro e retorna 0 se os args forem iguais.
 Caso qualquer um dos argumentos recebidos não seja um numero, a função deve
-retornar null.implementar função que recebe dois argumentos numéricos e
-retorna 1 se o primeiro argumento for maior que o segundo, retorna -1 se o
-segundo argumento for maior que o primeiro e retorna 0 se os args forem iguais.
-Caso qualquer um dos argumentos recebidos não seja um numero, a função deve
-    retornar null</li><br>
+retornar null</li><br>
     
   <li>
     Criar um enunciado baseado na seguinte funcao: <br>
