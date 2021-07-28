@@ -27,11 +27,10 @@ retornar null</li><br>
     seguinte formato: "Olá(string_recebida)"</li><br>
   
   <li>
-  Passo 1: implementar uma função de nome "repetir", que recebe um número e mostra uma mensagem qualquer
-na tela X vezes, onde X é o argumento recebido
-Passo 2: atribuir essa função a uma variável
-Passo 3: invocar essa função usando a variável
-atribuir o valor da linha 12 numa variavel
+  <p>Passo 1: implementar uma função de nome "repetir", que recebe um número e mostra uma mensagem qualquer
+    na tela X vezes, onde X é o argumento recebido</p>
+    <p>Passo 2: atribuir essa função a uma variável</p>
+    <p>Passo 3: invocar essa função usando a variável</p>
 </li><br>
   
   <li>
