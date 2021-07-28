@@ -24,9 +24,9 @@ const z = message()<br>
 - const z1 =  bla === z0
 - const foo = (z1 && true)
 - const z2 =  foo || true <br>
- w aponta pra qual valor? true
- w1 aponta pra qual valor? false
- z0 aponta pra qual valor? false
- bla aponta pra qual valor? false
- z1 aponta pra qual valor? true
+ w aponta pra qual valor? true<br>
+ w1 aponta pra qual valor? false<br>
+ z0 aponta pra qual valor? false<br>
+ bla aponta pra qual valor? false<br>
+ z1 aponta pra qual valor? true<br>
  z2 aponta pra qual valor? true    
