@@ -10,6 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Module 2](./module2.md)
 - [Module 3](./module3.md)
 - [Module 4](./module4.html)
+- [Module 5](./module5.html)
 
 <ul>
   <li> 
