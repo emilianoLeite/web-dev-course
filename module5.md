@@ -8,3 +8,10 @@
 - <a href='https://www.w3schools.com/js/js_htmldom_document.asp'> DOM Document </a>
 - <a href='https://www.w3schools.com/js/js_htmldom_elements.asp'> DOM Elements </a>
 - <a href='https://www.w3schools.com/js/js_htmldom_html.asp'> DOM HTML </a>
+
+
+## Exercícios
+
+- [ ] Colocar no site do curso:
+	- [ ] os exercícios JS que fizemos no repl.it 
+	- [ ] os exercícios iniciais de HTML que te passei por whatsapp
