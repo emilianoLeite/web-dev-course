@@ -29,4 +29,6 @@ const z = message()<br>
  z0 aponta pra qual valor? false<br>
  bla aponta pra qual valor? false<br>
  z1 aponta pra qual valor? true<br>
- z2 aponta pra qual valor? true    
+    z2 aponta pra qual valor? true</li>
+  
+  </ul>
