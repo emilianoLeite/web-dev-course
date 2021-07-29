@@ -15,3 +15,7 @@
 - [ ] Colocar no site do curso:
 	- [ ] os exercícios JS que fizemos no repl.it 
 	- [ ] os exercícios iniciais de HTML que te passei por whatsapp
+- [ ] [Exercício 14 JS](https://replit.com/@EmilianoLeite/Exercicios-de-funcao#exercicio14.js)
+- [ ] [Exercício 15 JS](https://replit.com/@EmilianoLeite/Exercicios-de-funcao#exercicio15.js)
+- [ ] [Exercício 16 JS](https://replit.com/@EmilianoLeite/Exercicios-de-funcao#exercicio16.js)
+- [ ] [Exercício 17 JS](https://replit.com/@EmilianoLeite/Exercicios-de-funcao#exercicio17.js)
